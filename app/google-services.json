@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "518510929873",
+    "project_id": "my-applicationhaha",
+    "storage_bucket": "my-applicationhaha.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518510929873:android:5b28c7d208b18dcd4922f0",
+        "android_client_info": {
+          "package_name": "com.example.myapplicationhaha"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHfov0n2OWVFqxnbq1UenFHnfeVtyv2E4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
